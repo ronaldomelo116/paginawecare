@@ -1,4 +1,6 @@
 # 🐾 We Care - Pet Care Landing Page
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 Uma demo de landing page moderna e responsiva voltada para serviços de cuidados com pets. Este projeto foi desenvolvido para construir uma interface limpa, amigável e completamente adaptável a dispositivos móveis.
 
