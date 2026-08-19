@@ -1,0 +1,131 @@
+* {
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin: 44px 0 144px 76px;
+}
+
+.links-header {
+    margin-right: 23px;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #989D9C;
+    cursor: pointer;
+}
+
+.links-header:hover {
+    color: #989d9c82;
+}
+
+.links-header:active {
+    color: #989D9C;
+}
+
+.button-header {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    width: 130px;
+    height: 41px;
+    border: none;
+    border-radius: 50px;
+    color: #FFFFFF;
+    background-color: #665AE1;
+    cursor: pointer;
+}
+
+.button-header:hover {
+    background-color: #655ae1c9;
+}
+
+.button-header:active {
+    background-color: #665AE1;
+}
+
+
+.logo {
+    width: 568px;
+    height: 500px;
+    margin-left: 125px;
+    display: inline-block;
+}
+
+
+
+section {
+    display: inline-block;
+    margin-left: 86px;
+
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 100px;
+    line-height: 122px;
+    color: #515151;
+}
+
+H2 {
+    font-weight: 500;
+    font-size: 58px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #515151;
+}
+
+p {
+    font-weight: 400px;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    width: 515px;
+    color: #848484;
+    margin-top: 32px;
+    margin-bottom: 65px;
+}
+
+.button-main {
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    width: 239px;
+    height: 64px;
+    border: none;
+    border-radius: 50px;
+    color: #000000;
+    background-color: #ADFF00;
+    box-shadow: 0px 4px 4px 0px #00000040;
+    cursor: pointer;
+
+}
+
+.button-main:hover{
+     background-color: #9ce400cc;
+}
+
+.button-main:active{
+    background-color: #ADFF00;
+}
+
+footer {
+    padding: 1.3rem;
+    width: 100%;
+    position: relative;
+    margin-top: 5.8%;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #665AE1;
+}
+
+a {
+    color: #FFFFFF;
+
+}
