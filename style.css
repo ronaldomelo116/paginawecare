@@ -17,6 +17,7 @@ header {
     letter-spacing: 0%;
     color: #989D9C;
     cursor: pointer;
+    text-decoration: none;
 }
 
 .links-header:hover {
@@ -127,5 +128,4 @@ footer {
 
 a {
     color: #FFFFFF;
-    text-decoration: none;
 }
